@@ -1,0 +1,32 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: grey;
+}
+
+.title  {
+    text-align: center;
+     color: white;
+      background-color: grey;
+}
+
+#recipe {
+    text-align: left;
+    color: white;
+    font-weight: bold;
+    background-color: grey;
+    font-size: 40px;
+}
+
+.centre {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%; 
+    background-color: grey;
+}
+
+button {
+    background-color: white;
+    color: grey;
+    font-size: 20px;
+}
